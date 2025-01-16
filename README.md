@@ -30,6 +30,8 @@ This project is part of the DATAMASTER certification from Santander Brasil. It f
 5. Segmentação dos clientes com uma abordagem não supervisionada
   - Após definido os churns e não churns, segmenta-los usando modelos de clusterização a fim de aprofundar a compreensão das características dos clientes  
 
+![Arquitetura_Case_Data_Master](https://github.com/user-attachments/assets/fc40f45f-aea5-435e-8942-a851ed1e5b66)
+
 
 para considerar no desenvolvimento:
 
